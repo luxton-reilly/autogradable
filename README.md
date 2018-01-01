@@ -21,4 +21,5 @@ please see LICENSE.md for details.
 
 ## Contributors
 
-- [Greg Wilson](http://third-bit.com)
+- [Greg Wilson](http://third-bit.com) co-founded [Software Carpentry](http://software-carpentry.org)
+  and is now Head of Instructor Training for [DataCamp](http://datacamp.com).
