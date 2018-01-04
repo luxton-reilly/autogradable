@@ -22,4 +22,4 @@ please see LICENSE.md for details.
 ## Contributors
 
 - [Greg Wilson](http://third-bit.com)
-- [Lynne J. Williams](http://ljwilliams.github.io/)
+
