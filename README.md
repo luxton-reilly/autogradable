@@ -22,4 +22,4 @@ please see LICENSE.md for details.
 ## Contributors
 
 - [Greg Wilson](http://third-bit.com)
-
+- [Andrew Luxton-Reilly] (https://www.cs.auckland.ac.nz/~andrew/) is an Associate Professor in the Computer Science department at the University of Auckland.
